@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://github.com/mt-shihab26">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-shihab26&theme=nord&langs_count=10&hide=css,jupyter%20notebook,ejs,scss" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-shihab26&theme=nord&langs_count=8&hide=css,jupyter%20notebook,ejs,scss,vue,html,astro,xslt,mdx,blade,ruby,shell,lua" />
 </a>
 
 </div>
